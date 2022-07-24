@@ -4,7 +4,7 @@
 
 ## [SQL Exploratory Data Analysis of Nigeria COVID-19 Data](https://github.com/jjjeorgee/Nigeria_Covid_Stats_Analysis)
 ![alt](https://github.com/jjjeorgee/Portfolio-Projects/blob/61b007560bfa539d208dbbb13c6f207e77911f54/wew.PNG)
-> In this project, I performed an analysis on COVID-19 data from Nigeria. I used Microsoft excel
+> In this project, I performed an analysis on COVID-19 data from Nigeria. I used Microsoft excel and SQL
 > for the data wrangling, used SQL to perform exploratory analysis in order to draw key insights, and Tableau for visualization.
 
 
