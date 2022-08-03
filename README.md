@@ -11,3 +11,4 @@
 ## [Analysis of the NICS gun purchase background checks dataset, collated with the US Census Data.](https://github.com/jjjeorgee/ALX-T/tree/main/Project%2001)
 ![alt](https://github.com/jjjeorgee/ALX-T/blob/main/Project%2001/jpgs/Capture.PNG)
 ### In progress
+> Data exploration project created primarily using Python in jupyter notebooks
