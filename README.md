@@ -11,4 +11,4 @@
 ## [Analysis of the NICS gun purchase background checks dataset, collated with the US Census Data.](https://github.com/jjjeorgee/ALX-T/blob/main/Project%2001/NCIS%20background%20checks%20data%20analysis%20collated%20with%20US%20census%20data%20(1).ipynb)
 ![alt](https://github.com/jjjeorgee/ALX-T/blob/main/Project%2001/jpgs/Capture.PNG)
 ### In progress
-> Data exploration project created primarily using Python in jupyter notebooks
+> In this project, I performed exploratory analysis on two datasets; The FBI NICS Firearm Background Check Dataset, and the US census dataset. I used Microsoft Excel to correct some errors in the dataset such as coverting one of the datasets from the .xlsx format to .csv, but majority of the entire analysis process was carried in Jupyter Notebooks with the Numpy, Pandas and Matplotlib python libraries.
