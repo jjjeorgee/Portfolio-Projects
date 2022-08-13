@@ -8,7 +8,7 @@
 > for the data wrangling, used SQL to perform exploratory analysis in order to draw key insights, and Tableau for visualization.
 
 
-## [Analysis of the NICS gun purchase background checks dataset, collated with the US Census Data.](https://github.com/jjjeorgee/ALX-T/tree/main/Project%2001)
+## [Analysis of the NICS gun purchase background checks dataset, collated with the US Census Data.](https://github.com/jjjeorgee/ALX-T/blob/main/Project%2001/NCIS%20background%20checks%20data%20analysis%20collated%20with%20US%20census%20data%20(1).ipynb)
 ![alt](https://github.com/jjjeorgee/ALX-T/blob/main/Project%2001/jpgs/Capture.PNG)
 ### In progress
 > Data exploration project created primarily using Python in jupyter notebooks
