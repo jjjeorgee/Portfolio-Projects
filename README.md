@@ -14,5 +14,6 @@
 
 
 ## [Wrangling and Analysis on WeRateDogs' Twitter Data.](https://nbviewer.ipython.org/github/jjjeorgee/ALX-T/blob/main/Project%2002%20-%20Data%20Wrangling/wrangle_act.ipynb#Cleaning%20and%20Trimming)
-<img width="492" alt="Screenshot 2022-09-10 214208" src="https://user-images.githubusercontent.com/98137996/189992319-1d80b8e3-dff2-4d42-8a20-dbec3fb48258.png">
+<img width="341" alt="Screenshot 2022-09-13 203858" src="https://user-images.githubusercontent.com/98137996/189994131-5bd82b61-4fc1-4722-8234-8c46a7f645c6.png">
+
 > In this project, I focused on honing my data wrangling skills. This includes data gathering, data assessing, and data cleaning and trimming. The project was done primarily using python to download data from multiple sources, including scrapping data from the twitter API. Python was also used to assess and clean the data, as well as derive some summary insights from the data. 
