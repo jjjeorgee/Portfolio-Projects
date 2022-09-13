@@ -14,3 +14,4 @@
 
 
 ## [Wrangling and Analysis on WeRateDogs' Twitter Data.](https://nbviewer.ipython.org/github/jjjeorgee/ALX-T/blob/main/Project%2002%20-%20Data%20Wrangling/wrangle_act.ipynb#Cleaning%20and%20Trimming)
+<img width="492" alt="Screenshot 2022-09-10 214208" src="https://user-images.githubusercontent.com/98137996/189992319-1d80b8e3-dff2-4d42-8a20-dbec3fb48258.png">
