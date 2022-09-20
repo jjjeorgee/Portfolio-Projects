@@ -3,7 +3,7 @@
 
 
 ## [Exploratory Data Analysis on Nigeria COVID-19 Dataset](https://github.com/jjjeorgee/Nigeria_Covid_Stats_Analysis)
-![alt](https://github.com/jjjeorgee/Portfolio-Projects/blob/61b007560bfa539d208dbbb13c6f207e77911f54/wew.PNG)
+![wew](https://user-images.githubusercontent.com/98137996/191382921-9a721f81-7f38-4e1a-b876-c60c12374b3c.png)
 > In this project, I performed an analysis on COVID-19 data from Nigeria. I used Microsoft excel and SQL
 > for the data wrangling, also used SQL to perform the data exploratory analysis in order to draw key insights, and used Tableau for visualization.
 
