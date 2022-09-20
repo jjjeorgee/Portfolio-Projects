@@ -2,7 +2,7 @@
 ###  This repository is an aggregation of all the Data Analysis projects I have done for work, fun, or academic purposes.
 
 
-## [Exploratory Data Analysis of Nigeria COVID-19 Dataset](https://github.com/jjjeorgee/Nigeria_Covid_Stats_Analysis)
+## [Exploratory Data Analysis on Nigeria COVID-19 Dataset](https://github.com/jjjeorgee/Nigeria_Covid_Stats_Analysis)
 ![alt](https://github.com/jjjeorgee/Portfolio-Projects/blob/61b007560bfa539d208dbbb13c6f207e77911f54/wew.PNG)
 > In this project, I performed an analysis on COVID-19 data from Nigeria. I used Microsoft excel and SQL
 > for the data wrangling, also used SQL to perform the data exploratory analysis in order to draw key insights, and used Tableau for visualization.
@@ -17,3 +17,6 @@
 <img width="341" alt="Screenshot 2022-09-13 203858" src="https://user-images.githubusercontent.com/98137996/189994131-5bd82b61-4fc1-4722-8234-8c46a7f645c6.png">
 
 > In this project, I focused on honing my data wrangling skills. This includes data gathering, data assessing, and data cleaning and trimming. The project was done primarily using python to download data from multiple sources, including scrapping data from the twitter API. Python was also used to assess and clean the data, as well as derive some summary insights from the data. 
+
+## Ford GoBike System Data Analysis
+![0_3iUSkahCvKP-loXC](https://user-images.githubusercontent.com/98137996/191382317-ff6afef0-8d19-41d7-9634-a48b8ae08d95.jpg)
