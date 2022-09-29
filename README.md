@@ -18,5 +18,5 @@
 
 > In this project, I focused on honing my data wrangling skills. This includes data gathering, data assessing, and data cleaning and trimming. The project was done primarily using python to download data from multiple sources, including scrapping data from the twitter API. Python was also used to assess and clean the data, as well as derive some summary insights from the data. 
 
-## Ford GoBike System Data Analysis
+## [Ford GoBike System Data Analysis](https://nbviewer.org/github/jjjeorgee/ALX-T/blob/main/Project%2003%20-%20Data%20Visualization/Part_I_exploration.ipynb)
 ![0_3iUSkahCvKP-loXC](https://user-images.githubusercontent.com/98137996/191382317-ff6afef0-8d19-41d7-9634-a48b8ae08d95.jpg)
