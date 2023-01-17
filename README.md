@@ -1,6 +1,12 @@
 # Portfolio Projects
 ###  This repository is an aggregation of all the Data Analysis projects I have done for work, fun, or academic purposes.
 
+## [DataFest Africa 2022 Machine Learning Hackathon; ](https://github.com/jjjeorgee/Datafest-2022-Datathon)
+
+>The IT team has provided historical information containing the information of applicants and the status of their loan application process. You are expected to automate the process by building a machine learning model to predict the outcome of the lending process if the credit facility process was completed via e-process, that is E-Signed or not.
+> With the use of certian python libraries, and in collaboration with 2 colleagues of mine, I was able to carry out Exploratory Data Analysis of a dataset containing the information of applicants and the status of their loan application process.
+> I was also able to build a Python Machine Learning Model to predict the outcome of the lending process if the credit facility process was completed via e-process, that is E-Signed or not using certain python libraries.
+
 
 ## [Exploratory Data Analysis on Nigeria COVID-19 Dataset](https://github.com/jjjeorgee/Nigeria_Covid_Stats_Analysis)
 ![wew](https://user-images.githubusercontent.com/98137996/191382921-9a721f81-7f38-4e1a-b876-c60c12374b3c.png)
@@ -17,6 +23,7 @@
 <img width="341" alt="Screenshot 2022-09-13 203858" src="https://user-images.githubusercontent.com/98137996/189994131-5bd82b61-4fc1-4722-8234-8c46a7f645c6.png">
 
 > In this project, I focused on honing my data wrangling skills. This includes data gathering, data assessing, and data cleaning and trimming. The project was done primarily using python to download data from multiple sources, including scrapping data from the twitter API. Python was also used to assess and clean the data, as well as derive some summary insights from the data. 
+
 
 ## [Ford GoBike System Data Analysis](https://nbviewer.ipython.org/github/jjjeorgee/ALX-T/blob/main/Project%2003%20-%20Data%20Visualization/Part_1_exploration.ipynb)
 ![0_3iUSkahCvKP-loXC](https://user-images.githubusercontent.com/98137996/191382317-ff6afef0-8d19-41d7-9634-a48b8ae08d95.jpg)
