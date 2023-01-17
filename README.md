@@ -4,7 +4,7 @@
 ## [DataFest Africa 2022 Machine Learning Hackathon ](https://github.com/jjjeorgee/Datafest-2022-Datathon)
 ![Why-Federal-Government-Shutdown-Online-Loan-Companies-1](https://user-images.githubusercontent.com/98137996/212985232-cbea4d0b-b2b0-4ac8-8158-d317e13186ab.jpg)
 
-> The IT team has provided historical information containing the information of applicants and the status of their loan application process. You are expected to automate the process by building a machine learning model to predict the outcome of the lending process if the credit facility process was completed via e-process, that is E-Signed or not.
+> The IT team has provided historical information containing the data of applicants and the status of their loan application process. You are expected to automate the process by building a machine learning model to predict the outcome of the lending process if the credit facility process was completed via e-process, that is E-Signed or not.
 
 > With the use of certian python libraries, and in collaboration with 2 colleagues of mine, I was able to carry out Exploratory Data Analysis of a dataset containing the information of applicants and the status of their loan application process.
 
